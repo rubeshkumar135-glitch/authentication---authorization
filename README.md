@@ -226,8 +226,8 @@ Authorization: Bearer <token>
 * Deploy using Render
 * Submit:
 
-  * GitHub Repository URL
-  * Render Live URL
+  * GitHub Repository URL : https://github.com/rubeshkumar135-glitch/authentication---authorization.git
+  * Render Live URL : https://authentication-authorization-953q.onrender.com
 
 ---
 
