@@ -140,14 +140,6 @@ Authorization: Bearer <token>
 }
 ```
 
-#### Response:
-
-```json
-{
-  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OWRjYmM2NTk4YzYzYTI3NWYyZmFiNWQiLCJpYXQiOjE3NzYwNzM4MzMsImV4cCI6MTc3NjA3NzQzM30.YOXIsM02AnzDYIhNaHoqUmJ5sfQGH9xM5DtYdUZ19Jw"
-}
-```
-
 ---
 
 ### 👤 3. Get User Info (Protected Route)
