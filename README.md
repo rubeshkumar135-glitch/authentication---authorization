@@ -136,30 +136,7 @@ Authorization: Bearer <token>
 ```json
 {
   "email": "rubesh@gmail.com",
-  "password": "runesh"
-}
-```
-
----
-
-### 👤 3. Get User Info (Protected Route)
-
-* **URL:** `/api/users`
-* **Method:** `GET`
-* **Headers:**
-
-```
-Authorization: Bearer <token>
-```
-
-#### Response:
-
-```json
-{
-  "user": {
-    "id": "user_id",
-    "email": "rubesh@gmail.com"
-  }
+  "password": "rubesh"
 }
 ```
 
@@ -199,7 +176,7 @@ Authorization: Bearer <token>
 3. Use token in Authorization header:
 
    ```
-   Bearer <your_token>
+   Headers: Key : Authorization --> Value : Bearer <token>
    ```
 4. Access protected route
 
