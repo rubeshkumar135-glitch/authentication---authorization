@@ -176,7 +176,7 @@ Authorization: Bearer <token>
 3. Use token in Authorization header:
 
    ```
-   Headers: Key : Authorization --> Value : Bearer <token>
+    Authorization: Bearer <token>
    ```
 4. Access protected route
 
