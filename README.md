@@ -1,5 +1,9 @@
 # 🔐 User Authentication & Authorization with Bearer Token
 
+## 📌 API Documentation URL
+
+https://documenter.getpostman.com/view/52373876/2sBXqFMhPR
+
 ## 📌 Project Overview
 
 This project implements **User Authentication and Authorization** using **JWT (Bearer Token)** in a Node.js application. It follows the **MVC architecture** and uses **MongoDB** for data storage.
